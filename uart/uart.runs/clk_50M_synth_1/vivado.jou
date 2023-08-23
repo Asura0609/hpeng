@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jul 14 08:49:59 2023
+# Process ID: 11200
+# Current directory: D:/Study/Xlinx/FPGA/uart/uart.runs/clk_50M_synth_1
+# Command line: vivado.exe -log clk_50M.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_50M.tcl
+# Log file: D:/Study/Xlinx/FPGA/uart/uart.runs/clk_50M_synth_1/clk_50M.vds
+# Journal file: D:/Study/Xlinx/FPGA/uart/uart.runs/clk_50M_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clk_50M.tcl -notrace
